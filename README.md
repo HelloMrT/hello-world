@@ -6,4 +6,4 @@ Hubot here, i like node.js and Coffieescript (this what I'm made of!).
 
 test git
 
-更新远程仓库
+从远程仓库更新本地仓库
